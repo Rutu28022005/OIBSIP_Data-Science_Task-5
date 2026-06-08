@@ -1,10 +1,4 @@
-
----
-
-# TASK 5 – Sales Prediction using Python
-
-```markdown
-# Sales Prediction using Machine Learning
+# Task 5 - Sales Prediction using Machine Learning
 
 ## Objective
 
